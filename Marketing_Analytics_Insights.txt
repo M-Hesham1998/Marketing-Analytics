@@ -1,0 +1,44 @@
+Marketing Analytics — Key Insights
+
+Marketing Performance — June 2026 • GMV وصل إلى $2.35M بانخفاض 3% عن
+الشهر السابق، بينما Marketing Cost انخفض 5% إلى $65.59K. • انخفاض
+التكلفة كان أكبر من انخفاض GMV، وده انعكس على ROAS الذي ارتفع 2% إلى
+35.82. • رغم تحسن ROAS، CAC ارتفع 458% إلى $6,559، وده يشير إلى أن تكلفة
+اكتساب العميل ارتفعت بشكل كبير مقارنة بالشهر السابق. • ROI وصل إلى
+3,482%، مما يعكس عائدًا مرتفعًا جدًا مقارنة بالإنفاق التسويقي. • اتجاه الـ
+GMV خلال الفترة يوضح نموًا قويًا من بداية 2026، مع وصوله إلى مستويات
+مرتفعة في May ثم تراجع واضح في June.
+
+Channel & Campaign Performance — July 2026 • Paid Channels استحوذت على
+الجزء الأكبر من الإنفاق: حوالي $41.97K مقابل $1.34K فقط للـ Owned. • رغم
+ذلك، الـ Owned Channels حققت CTR = 20.14% مقابل 2.43% للـ Paid، وحققت
+4,239 conversions مقابل 1,437 للـ Paid. • ده يشير إلى أن الـ Owned
+Channels تحقق engagement وكفاءة تحويل أعلى بكثير رغم الإنفاق الأقل. •
+على مستوى الحملات، HighValue_Upsell حققت أعلى عدد conversions بحوالي
+1,015، تليها AtRisk_Reactivation بـ981. • AtRisk_Reactivation حققت CVR =
+8%، وهي الأعلى بين الحملات الظاهرة، بينما HighValue_Upsell حققت CTR =
+21.42% وCVR = 7.63%.
+
+Funnel & Customer Journey — All Data • الـ Funnel يبدأ بحوالي 40M
+impressions وينخفض إلى حوالي 4M Engagement، أي أن أكبر فقد في الـ Funnel
+يحدث في الانتقال من Impressions → Engagement. • بعد ذلك، الـ Sessions
+وصلت إلى 3.9M، وهي قريبة جدًا من حجم الـ Engagement، مما يشير إلى أن
+الانتقال من Engagement إلى Sessions أكثر استقرارًا. • الـ GMV النهائي
+المعروض = $9.9M، والـ Funnel يعرض وصوله إلى 24.7% من قيمة الـ
+Impressions المستخدمة كمرجع في الرسم. • في Customer Journey، يوجد حوالي
+800 Active Merchants، منهم 624 Repeat Buyers، بينما 484 مصنفون كـ Risk
+Merchants. • وجود عدد كبير من Repeat Buyers يعتبر مؤشرًا جيدًا على
+الاستمرارية، لكن حجم الـ Risk Merchants يستحق المتابعة لأنه يمثل قاعدة
+معرضة لفقدان النشاط.
+
+Personas, Segments & Markets — All Data • Omar the Ops Manager هو الـ
+Top Persona من حيث GMV بحوالي $2.54M، رغم أن عدد Merchants لديه أقل من
+بعض الـ Personas الأخرى. • Layla the CFO لديها أعلى AVG LTV ≈ $42.97K،
+تليها Nour the Enterprise Buyer ≈ $38.81K؛ يعني عدد الـ Merchants ليس
+العامل الوحيد في قيمة الـ Persona. • Enterprise هو أكبر Segment من حيث
+GMV بحوالي $6.50M مقابل $3.41M للـ SME، ويمثل حوالي 65.6% من إجمالي GMV.
+• United Arab Emirates تحقق أعلى ROAS بين الأسواق الظاهرة، تليها Saudi
+Arabia وEgypt. • قاعدة الـ Merchants تتكون من 458 B2C و342 B2B، وبالتالي
+B2B يمثل حوالي 42.75% من إجمالي الـ Merchants. • في المقابل، Enterprise
+يساهم بحصة أكبر بكثير من الـ GMV مقارنة بحجمه، وده يشير إلى قيمة أعلى
+لكل Merchant داخل Segment الـ Enterprise.
