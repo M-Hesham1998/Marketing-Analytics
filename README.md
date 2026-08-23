@@ -4,6 +4,8 @@ A complete Marketing Analytics solution built with Power BI to evaluate marketin
 
 The project focuses not only on dashboard design, but also on Data Modeling, DAX, KPI development, business logic, and actionable insights.
 
+![Marketing Performance](Images/Marketing_Performance.png)
+
 🎯 Project Objective
 
 The main objective is to transform marketing, customer, campaign, and merchant data into a centralized analytical solution that helps answer questions such as:
@@ -66,6 +68,8 @@ ROAS by channel
 
 Month-over-month KPI comparisons
 
+![Marketing Performance](Images/Marketing_Performance.png)
+
 
 
 2. Channel & Campaign Performance
@@ -105,6 +109,8 @@ Organic traffic and organic clicks
 
 CVR by device
 
+![Channel & Campaign Performance](Images/Channel&Campaign_Performance.png)
+
 
 
 3. Funnel & Customer Journey
@@ -133,6 +139,7 @@ Conversion performance
 The goal is to identify where the largest drop-offs happen and where
 customer retention opportunities exist.
 
+![Funnel & Customer Journey](Images/Funnel&Customer_Journey.png)
 
 
 4. Personas, Segments & Markets
@@ -165,6 +172,8 @@ Which segment has the highest customer value?
 Which markets deliver the strongest ROAS?
 
 How much of the business comes from Enterprise merchants?
+
+![Personas, Segments & Markets](Images/Personas,Segments&Markets.png)
 
 
 
@@ -274,6 +283,7 @@ A detailed step-by-step documentation is included in the repository
 covering the project workflow, data preparation, modeling decisions, KPI
 development, DAX logic, dashboard construction, and analytical insights.
 
+
 📚 **Documentation:** [View Step-by-Step Documentation](Documentation_Step_by_Step.md)
 
 💡 **Insights:** [View Marketing Insights](Marketing_Analytics_Insights.txt)
@@ -294,6 +304,4 @@ KPIs and insights can also be misleading.
 
 Mohamed Hesham
 
-Data Analyst | Power BI | SQL | Data Analytics
-
-#PowerBI #DataAnalytics #MarketingAnalytics #DAX #BusinessIntelligence
+Data Analyst | Power BI 
