@@ -109,7 +109,6 @@ Organic traffic and organic clicks
 
 CVR by device
 
-![Channel & Campaign Performance](Images/Channel&Campaign_Performance.png)
 
 
 
